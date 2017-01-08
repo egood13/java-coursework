@@ -1,5 +1,6 @@
+// Example of bubble sort algorithm and big O notation from coursework for M.S. Operations Research 
 
-//Exercise 19.5 - Bubble Sort O(n^2)
+//Bubble Sort O(n^2)
 
 /*
 The bubble sort is an O(n^2) algorithm due to the fact that it requires
@@ -11,7 +12,7 @@ one. So a loop can take n*((n-1)+(n-2)+(n-3)+...); since the n^2 piece
 dominates as n becomes large, we get O(n^2).
 */
 
-public class Prob5
+public class BubbleSort
 {
 	public static void main(String[] args)
 	{

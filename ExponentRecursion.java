@@ -1,9 +1,9 @@
 
-// Problem 1 Part C
+// Example of recursion used in coursework for M.S. Operations Research
 
 import java.util.Scanner;
 
-public class ProbOneC
+public class ExponentRecursion
 {
 	public static void main(String[] args)
 	{

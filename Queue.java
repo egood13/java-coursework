@@ -1,5 +1,5 @@
 
-// Problem 6
+// Example Queue data structure used in coursework M.S. Operations Research
 
 class QueueNode<T>
 {

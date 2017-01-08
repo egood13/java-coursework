@@ -1,5 +1,5 @@
 
-// problem 6
+// Test Queue class
 
 import java.security.SecureRandom;
 
